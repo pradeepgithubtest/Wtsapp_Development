@@ -9,3 +9,7 @@ Wtsapp Code:
 4.Attachments like image,video,audio
 
 5.Set privacy policy
+
+6.Adding the audio call feature
+
+7.adding the video call feature
